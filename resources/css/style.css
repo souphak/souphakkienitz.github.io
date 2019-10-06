@@ -125,3 +125,8 @@ nav a:hover {
 	float: right;
 	color: #002542;
 }
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
