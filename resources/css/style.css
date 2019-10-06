@@ -111,3 +111,15 @@ nav a:hover {
   background: #C0D6DF;
   color: white;
 }
+
+/* Professional Header */
+#content-professionalheader {
+	font-size: 24px;
+	color: white;
+}
+
+/* Date */
+.date {
+	float: right;
+	color: white;
+}
