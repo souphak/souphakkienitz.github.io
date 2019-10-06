@@ -10,7 +10,6 @@ ul {
   margin: 0;
 }
 
-   
 /* Header */
 
 header {
@@ -22,12 +21,12 @@ header {
 }
 
 nav {
-  border-bottom: 1px solid #002542;
-  background-color: #002542;
+  border-bottom: 1px solid #466995;
+  background-color: #466995;
 }
 
 nav ul {
-  padding: 15px 0;
+  padding: 30px 0;
   text-align: center;
 }
 
@@ -47,7 +46,7 @@ nav a:hover {
 
 .welcome {
   background-color: #fb8e20;
-  padding: 20px;
+  padding: 40px;
   text-align: center;
 }
 
@@ -64,9 +63,7 @@ nav a:hover {
   font-weight: normal;
 }
 
-  
-
-/* Sections */
+/* Questions */
 
 .sections {
   top: 240px;
