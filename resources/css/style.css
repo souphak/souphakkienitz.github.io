@@ -6,6 +6,11 @@ body {
   font-weight: 300;
 }
 
+p {
+  color: #002542;
+  font-weight: 300;
+}
+
 ul {
   margin: 0;
 }
