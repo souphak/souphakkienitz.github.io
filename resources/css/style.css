@@ -10,17 +10,6 @@ ul {
   margin: 0;
 }
 
-@media only screen and (max-width:1024px) {
-  body {
-    font-size: 16px;
-  }
-
-  
-  
- @media only screen and (max-width: 1024px) {
-  nav ul {
-    display: none;
-  }
    
 /* Header */
 
