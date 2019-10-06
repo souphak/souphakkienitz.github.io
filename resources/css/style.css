@@ -125,18 +125,3 @@ nav a:hover {
 	float: right;
 	color: #002542;
 }
-
-#container {
-	width: 800px;
-	margin: 40px auto 60px;
-}
-
-#content-contact {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-	font-size: 42px;
-	font-weight: bold;
-	letter-spacing: -2px;
-	border-bottom: 3px solid #999;
-	color: #002542;
-}
