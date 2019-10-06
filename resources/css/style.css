@@ -13,7 +13,12 @@ ul {
 @media only screen and (max-width:1024px) {
   body {
     font-size: 16px;
-
+  }
+@media only screen and (max-width: 470px) {
+  .main-banner {
+    height: 15em;
+  }
+  
 /* Header */
 
 header {
