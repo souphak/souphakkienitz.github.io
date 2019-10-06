@@ -70,12 +70,12 @@ nav a:hover {
   position: relative;
 }
 
-.question {
+.section {
   margin: 120px auto;
   text-align: center;
 }
 
-.question h4 {
+.section h4 {
   color: #466995;
   letter-spacing: 2px;
   font-weight: normal;
