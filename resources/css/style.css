@@ -64,22 +64,6 @@ nav a:hover {
   font-weight: normal;
 }
 
-/* Video */
-
-video {
-  position: relative;
-}
-
-.video {
-  height: 100vh;
-  width: 100vw;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -2;
-  object-fit: fill;
-  
-  
   
 
 /* Sections */
